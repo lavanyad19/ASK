@@ -1,6 +1,8 @@
 # Reg.no : 212224060133
 # Name   : Lavanya D
 # ASK & FSK
+# Exp No:4
+# Exp name: Simulation of Digital Modulation Techniques(Amplitude Shift Keying & Frequency Shift Keying)
 # Aim
  Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
