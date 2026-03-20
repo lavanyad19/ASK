@@ -89,10 +89,11 @@ plt.tight_layout(rect=[0,0,1,0.93])
 plt.show()
 ```
 # ASK Output Waveform
-<img src="https://img.sanishtech.com/u/86774fbcfa21be163c28b1453ffc2286.png" alt="Screenshot 2026-03-15 130903" loading="lazy" style="max-width:100%;height:auto;">/>
+<img width="913" height="820" alt="image" src="https://github.com/user-attachments/assets/bd3c1762-37f6-498e-b7c0-c4dd9b0f07d3" />
 
 # FSK Output Waveform
-<img src="https://img.sanishtech.com/u/cadcd41d2b1f8d38eb3bdf690c05b327.png" alt="fsk" loading="lazy" style="max-width:100%;height:auto;">
+<img width="1120" height="736" alt="image" src="https://github.com/user-attachments/assets/d2963b20-ece6-41c8-9393-216c740c004b" />
+
 
 # Results
 Thus, the ASK and FSK were performed using Colab
