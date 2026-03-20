@@ -92,7 +92,8 @@ plt.show()
 <img width="913" height="820" alt="image" src="https://github.com/user-attachments/assets/bd3c1762-37f6-498e-b7c0-c4dd9b0f07d3" />
 
 # FSK Output Waveform
-<img width="1120" height="736" alt="image" src="https://github.com/user-attachments/assets/d2963b20-ece6-41c8-9393-216c740c004b" />
+<img width="924" height="760" alt="image" src="https://github.com/user-attachments/assets/d325e0d1-c6ee-433d-81f0-15f2f7b96a8a" />
+
 
 
 # Results
